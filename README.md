@@ -76,3 +76,10 @@ Depuis Figma :
 ---
 
 📌 **Repo GitHub** : [https://github.com/thomas/probeats-ecommerce-ui](https://github.com/thomas/probeats-ecommerce-ui)
+
+
+# Maquette Figma – Probeats
+
+Vous pouvez consulter la maquette complète ici :  
+[📄 Voir sur Figma](https://www.figma.com/file/TON-LIEN-ICI)
+
